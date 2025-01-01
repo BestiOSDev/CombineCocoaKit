@@ -1,0 +1,30 @@
+{
+  "name": "CombineCocoaKit",
+  "version": "0.1.0",
+  "summary": "CombineCocoaKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BestiOSDev/CombineCocoaKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dongzb01": "dzb8818082@163.com"
+  },
+  "source": {
+    "git": "https://github.com/BestiOSDev/CombineCocoaKit.git",
+    "tag": "0.1.0"
+  },
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "frameworks": [
+    "Combine",
+    "Foundation",
+    "UIKit"
+  ],
+  "source_files": "CombineCocoaKit/Classes/**/*.{swift,h,m}",
+  "swift_version": "5.0"
+}

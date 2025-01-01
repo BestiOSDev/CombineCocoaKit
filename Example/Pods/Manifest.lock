@@ -1,0 +1,23 @@
+PODS:
+  - CombineCocoaKit (0.1.0)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - CombineCocoaKit (from `../`)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  CombineCocoaKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CombineCocoaKit: bd4672c2e420fb56c292fd5f2232642333953e41
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: c3aff1c3563a349b3da8e2bc79d13757c149441b
+
+COCOAPODS: 1.16.2

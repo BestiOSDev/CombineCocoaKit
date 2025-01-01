@@ -1,0 +1,6 @@
+framework module CombineCocoaKit {
+  umbrella header "CombineCocoaKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
