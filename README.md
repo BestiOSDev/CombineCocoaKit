@@ -10,7 +10,7 @@
 CombineCocoa：https://github.com/CombineCommunity/CombineCocoa
 
 CombineExt: https://github.com/CombineCommunity/CombineExt
-此外还解决了CombineX的方法实现
+此外还参考了CombineX的方法实现
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
